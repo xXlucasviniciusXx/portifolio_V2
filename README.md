@@ -1,9 +1,8 @@
 
 # Portifolio
 
-O Alura MIDI é um instrumento musical de interface digitial (MIDI), que reproduz sons de instrumentos musicais, por enquanto de uma bateria, ao usuário clicar ou pressionar com teclado em seus botões.
 
-![Pagina inicial](https://exemplo.com/logo.png)
+![Pagina inicial](https://raw.githubusercontent.com/xXlucasviniciusXx/portifolio_V2/main/img/apresentacao.PNG)
 
 
 ## 🔨 Funcionalidades do projeto
@@ -28,7 +27,6 @@ Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
 
 ## 📚 Mais informações do curso
 
-# Feito Por:
-## Lucas Moreira
+## Feito Por: Lucas Moreira
 
 
